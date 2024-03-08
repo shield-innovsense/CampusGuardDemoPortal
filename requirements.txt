@@ -1,6 +1,7 @@
+opencv-python
 geocoder==1.38.1
 ultralytics==8.1.7
 moviepy==1.0.3
 streamlit==1.29.0
 python-dotenv
-opencv-python==4.7.0.72
+
