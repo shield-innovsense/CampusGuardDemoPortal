@@ -1,8 +1,8 @@
 geocoder==1.38.1
 moviepy==1.0.3
-opencv-contrib-python
-opencv_python_headless==4.8.0.74
+opencv-contrib-python-headless
 python-dotenv==1.0.1
 requests==2.31.0
 streamlit==1.32.0
 ultralytics==8.1.7
+streamlit_webrtc==0.20.0
