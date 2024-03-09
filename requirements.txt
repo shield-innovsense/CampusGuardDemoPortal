@@ -4,4 +4,5 @@ ultralytics==8.1.7
 moviepy==1.0.3
 streamlit==1.29.0
 python-dotenv
-
+opencv-python-headless
+libgl1
